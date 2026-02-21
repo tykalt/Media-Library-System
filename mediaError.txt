@@ -1,0 +1,53 @@
+ERROR: M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+Previous record has an invalid stoi argument error
+
+ERROR: B,Hamlet,William Shakespeare,4,Tragedy,214,1600,5
+There was an invalid value entered for year.
+
+ERROR: B,Fahrenheit 451,Ray Bradbury,Sci-Fi,256,1953,8
+Previous record has an invalid stoi argument error
+
+ERROR: M,So I Married an Axe Murderer,Thomas Schlamme,15,Comedy,93,1993,Mike Meyers,Nancy Travis
+There was an invalid value entered for rating.
+
+ERROR: B,Crime and Punishment,Fyodor Dostoevsky,7,Crime Fiction,576,1866,15
+There was an invalid value entered for year.
+
+ERROR: B,Watchmen,Alan Moore,8,Sci-Fi,416,1987,ERROR
+Previous record has an invalid stoi argument error
+
+ERROR: S,Baba Yetu,Christopher Tin,10,Choir,203,2025,0
+There was an invalid value entered for year.
+
+ERROR: S,Blinding Lights,the Weeknd,10,9,INVALID,2020,1
+There was an invalid value entered for length.
+
+ERROR: S,Stayin' Alive,Bee Gees,10,Pop,419,1979,ERROR
+Previous record has an error in boolean value
+
+The rating provided: 11 is invalid
+
+Unable to process command. The genre: -3 is not found in your list
+
+Unable to process command. There was an ERROR located in the command for: Respect
+
+Unable to process command. There was an ERROR located in the command for: Strawberry Fields Forever
+
+Unable to process command. There was an ERROR located in the command for: Strawberry Fields Forever
+
+Unable to process command. There was an ERROR located in the command for: Close Encounters
+
+Unable to process command. There was an ERROR located in the command for: The Brothers Hawthorne
+
+Unable to process command. There was an invalid value entered for year: Lessons in Chemistry
+
+The rating provided: 15 is invalid
+
+Unable to process command. The genre: none is not found in your list
+
+Unable to process command. The movie: 'Lost' is not found in your list
+
+Unable to process command. The star: Victor Lee is not found in any movies in your list
+
+Unable to process command. The name: Harrison Ford was not found in your list
+
